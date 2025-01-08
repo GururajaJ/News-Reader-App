@@ -1,1 +1,2 @@
 # News-Reader-App
+News Reader application is designed to provide a seamless and engaging experience for users to stay informed about the world. Powered by Jetpack Compose, the app boasts an intuitive and visually appealing user interface, ensuring ease of navigation and accessibility. It delivers the latest news across various categories, including politics, technology, entertainment, sports, and more, keeping users up-to-date with real-time updates.
